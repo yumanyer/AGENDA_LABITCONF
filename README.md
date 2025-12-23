@@ -11,3 +11,6 @@ Asistir y orientar a los asistentes.
 Evitar depender de conexión a internet o señal móvil.
 
 Esta herramienta permitió centralizar toda la información en una planilla accesible y actualizada, mejorando la coordinación del equipo durante un evento de más de 9.000 asistentes.
+
+
+POST DONDE PODRAS APOYAR A ESTE DEV EMERGENTE:https://www.linkedin.com/in/manuelpisoni/details/volunteering-experiences/
